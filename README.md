@@ -47,5 +47,5 @@ If you find any issues or have suggestions for improvements, please feel free to
 This project is licensed under the [MIT License](LICENSE).
 
 
+![screencapture-127-0-0-1-5500-digital-agency-index-html-2023-12-07-17_29_34](https://github.com/httpsadnankhan/digital-agency-landing-page/assets/120323286/6acabdeb-3fd4-4d4a-9440-7e78a21e7d34)
 
-![Uploading screencapture-127-0-0-1-5500-digital-agency-index-html-2023-12-07-17_29_34.png…]()
